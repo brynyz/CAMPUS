@@ -1,1 +1,1 @@
-# Cauayan Academic Management Platform for University(CAMPUS)
+# Cauayan Academic Management Platform for University (CAMPUS)
